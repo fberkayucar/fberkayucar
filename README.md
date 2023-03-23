@@ -20,7 +20,7 @@ I love learning, math, literature and software.
 </p>
 
 - 🔭 I am currently working in every field, trying to improve myself
-- 🌱 I am currently learning C#, mvc
+- 🌱 I am currently learning C#, mvc, Angular, Java, HTML, CSS and WPF
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fberkayucar&layout=compact)](https://github.com/fberkayucar/github-readme-stats)
   <br>
