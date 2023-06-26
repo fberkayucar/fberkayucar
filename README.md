@@ -1,8 +1,9 @@
 Hi there<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
+Who is fberkayucar?
 Likes to research and improve himself. Prone to teamwork and keen to learn new technologies and languages. Has a knowledge which is suitable for working in many fields. Likes to play games.
 
-C#, Java, Html, Css softwares.
+C#, Java, Unity, Html, Css softwares.
 
 Asp.Net Core Mvc with Linq and Depency İnjection
 
