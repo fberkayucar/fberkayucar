@@ -21,5 +21,5 @@ I love learning, math, literature and software.
 </p>
 
 - 🔭 I am currently working in every field, trying to improve myself
-- 🌱 I am currently learning C#, mvc, Angular, Java, HTML, CSS and WPF
+- 🌱 I am currently learning Unity, C#, mvc, Angular, Java, HTML, CSS and WPF
 
